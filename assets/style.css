@@ -22,10 +22,6 @@ body {
   white-space: pre-wrap;
 }
 
-.time-block{
-  border-radius: 15px;
-}
-
 .row {
   white-space: pre-wrap;
   height: 80px;
@@ -60,7 +56,6 @@ body {
 }
 
 .list-group-item {
-  margin: 1px;
   font-size: larger;
   border: 1px solid white;
 }
