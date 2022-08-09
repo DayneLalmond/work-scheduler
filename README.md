@@ -4,7 +4,7 @@
 https://daynelalmond.github.io/work-scheduler/
 
 ## Screenshot
-![Capture](./assets/Capture.JPG)
+![Capture](./assets/Capture.PNG)
 
 ## Description
 
